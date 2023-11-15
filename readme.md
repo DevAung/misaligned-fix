@@ -2,7 +2,9 @@
 
 ![](image-1.png)
 
-### To fix the bubbles are misaligned, copy gobi script from one of the bubble elements and place it within the `<head> ... </head>` tags of your HTML document.And then remove all gobi script from each bubble elements.
+### To fix the bubbles are misaligned, 
+### copy gobi script from one of the bubble elements and place it within the `<head> ... </head>` tags of your HTML document.
+### And then remove all gobi script from each bubble elements.
 
 > This single placement eliminates the need to insert the script separately into each bubble element. This streamlined approach enables the use of the Gobi story script across multiple bubbles without redundancy.
 
