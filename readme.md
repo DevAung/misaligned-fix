@@ -53,6 +53,7 @@
                 data-gobi-inherit-text-font-family="true"
                 data-gobi-auto-start-with-sound="true"
               ></div>
+              <!-- other code -->
             </div>
             <div class="el-meta">
               SoMe-anvsarlig og leder av ungdomsredaksjon
@@ -82,6 +83,7 @@
                 data-gobi-inherit-text-font-family="true"
                 data-gobi-auto-start-with-sound="true"
               ></div>
+              <!-- other code -->
             </div>
             <div class="el-meta">Utvikler</div>
           </div>
@@ -110,6 +112,7 @@
                 data-gobi-inherit-text-font-family="true"
                 data-gobi-auto-start-with-sound="true"
               ></div>
+              <!-- other code -->
             </div>
             <div class="el-meta">Innholdsprodusent</div>
           </div>
