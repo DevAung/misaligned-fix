@@ -16,8 +16,8 @@
 
 ## 3. Remove all script tags inside Gobi story bubble elements.
 
-| Before                    |                    After |
-| :------------------------ | -----------------------: |
+|          Before           |          After           |
+| :-----------------------: | :----------------------: |
 | ![Alt text](image022.png) | ![Alt text](image-7.png) |
 
 ## Result
